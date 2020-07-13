@@ -2,3 +2,4 @@ node_modules/
 config.json
 devconfig.json
 sync.ffs_db
+package-lock.json
