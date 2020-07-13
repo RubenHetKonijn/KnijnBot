@@ -128,8 +128,7 @@ Bot.on('message', msg=>{
     let commandFile = Bot.commands.get(cmd.slice(prefix.length));
     if(commandFile) commandFile.run(Bot,msg,args);
 });
-
-Bot.login(config.token);
+Bot.login(config.token)
 })
 
 
