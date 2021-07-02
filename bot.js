@@ -6,7 +6,6 @@ const forbiddenWords = ["http","crap","shit","fuck",".com",".nl","www.",".co.uk"
 const colors =  require('colors')
 const chalk = require('chalk');
 const figlet = require('figlet');
-const ver = require('./ver.json')
 var devmode = 0
 const readline = require("readline");
 const MongoClient = require('mongodb').MongoClient;

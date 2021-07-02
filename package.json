@@ -20,6 +20,8 @@
     "figlet": "^1.4.0",
     "mongodb": "^3.5.9",
     "nodemon": "^2.0.4",
-    "redux": "^4.0.5"
+    "os": "^0.1.1",
+    "redux": "^4.0.5",
+    "systeminformation": "^5.7.7"
   }
 }
